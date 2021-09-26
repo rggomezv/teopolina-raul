@@ -1,0 +1,9 @@
+@media (max-width: 900px) {
+    #welcome-section {
+        color: #0ef0f0;
+    }
+}
+
+#welcome-section{
+    height: 100vh;
+}
